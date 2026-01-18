@@ -1,0 +1,24 @@
+{
+    "name": "super-pdf-editor",
+    "version": "7.0.0",
+    "description": "Professional PDF editing tool with Thai language support",
+    "main": "index.html",
+    "scripts": {
+        "serve": "npx serve .",
+        "dev": "npx serve . -p 3000"
+    },
+    "keywords": [
+        "pdf",
+        "editor",
+        "thai",
+        "signature",
+        "react"
+    ],
+    "author": "Super PDF Team",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/your-username/super-pdf-editor.git"
+    },
+    "homepage": "https://your-username.github.io/super-pdf-editor"
+}
